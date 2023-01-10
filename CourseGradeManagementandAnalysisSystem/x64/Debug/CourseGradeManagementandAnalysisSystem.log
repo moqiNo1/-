@@ -1,0 +1,8 @@
+﻿  ClassSystem.cpp
+C:\Users\86151\source\repos\CourseGradeManagementandAnalysisSystem\ClassSystem.cpp(196,127): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\CourseGradeManagementandAnalysisSystem\ClassSystem.cpp(478,105): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\CourseGradeManagementandAnalysisSystem\ClassSystem.cpp(716,126): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\CourseGradeManagementandAnalysisSystem\ClassSystem.cpp(1575,126): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\CourseGradeManagementandAnalysisSystem\ClassSystem.cpp(1642,126): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86151\source\repos\CourseGradeManagementandAnalysisSystem\ClassSystem.cpp(2503,126): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  CourseGradeManagementandAnalysisSystem.vcxproj -> C:\Users\86151\source\repos\CourseGradeManagementandAnalysisSystem\x64\Debug\CourseGradeManagementandAnalysisSystem.exe
